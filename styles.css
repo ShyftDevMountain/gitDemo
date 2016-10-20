@@ -17,3 +17,11 @@ body {
     border-radius: 25px;
     padding: 10px;
 }
+
+.drivers-title {
+    color: tomato;
+    font-size: 32px;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 10px;
+}
