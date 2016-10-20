@@ -24,4 +24,5 @@ body {
     font-weight: bold;
     text-transform: uppercase;
     padding: 10px;
+    text-decoration: underline;
 }
